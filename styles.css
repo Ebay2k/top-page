@@ -36,3 +36,12 @@ body {
     padding: 10px;
     font-family: 'Roboto';
 }
+
+.placeholder {
+    display: flex;
+    background-color: rgb(2, 22, 48);
+    color: white;
+    align-items: center;
+    justify-content: center;
+    padding: 90px;
+}
