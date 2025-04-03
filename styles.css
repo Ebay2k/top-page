@@ -86,3 +86,33 @@ body {
     flex-direction: column;
 
 }
+
+.news {
+    background-color: #3882f6;
+    padding: 20px;
+    color: white;
+    margin: 20px 170px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 5px;
+    border-color: none;
+}
+
+.news-1 b {
+    text-align: left;
+}
+
+.news-1 {
+    flex: 1;
+    text-align: left;
+}
+
+.footercc {
+    background-color: #0d1e3a;
+    color: white;
+    padding: 4px;
+    font-style: italic;
+    font-size: 14px;
+}
+
